@@ -99,3 +99,17 @@ body,
   width: 940px;
   min-width: 920px;
 }
+
+.imagecache-thumbnail {
+float:left;
+margin-top:0px;
+margin-right:7px;
+margin-bottom:0px;
+}
+
+.imagecache-medium {
+float:right;
+margin-top:0px;
+margin-left:7px;
+margin-bottom:0px;
+}
